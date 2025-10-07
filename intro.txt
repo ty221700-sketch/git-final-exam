@@ -1,0 +1,22 @@
+Giới thiệu cá nhân:
+Tôi là Ngô Tỷ, sinh viên năm 4 Khoa Công nghệ Thông tin.
+Tôi yêu thích học lập trình và muốn trở thành lập trình viên giỏi.
+Tôi luôn cố gắng học hỏi và chia sẻ kiến thức với bạn bè.
+Tôi tin rằng sự kiên trì là chìa khóa của thành công.
+
+Sở thích:
+1. Lập trình và học công nghệ mới.
+2. Chơi thể thao.
+3. Đi du lịch
+
+Kỹ năng:
+1. C# và SQL cơ bản.
+2. Git và quản lý phiên bản.
+3. Làm việc nhóm hiệu quả.
+
+Kế hoạch học tập:
+1. Hoàn thành các môn học kỳ này với điểm tốt.
+2. Nâng cao kỹ năng Git và GitHub.
+3. Tự học thêm về Java, WinForms và MongoDB.
+4. Thực hiện một dự án nhỏ để luyện tập.
+5. Rèn luyện kỹ năng làm việc nhóm và quản lý thời gian.
