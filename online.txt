@@ -1,0 +1,3 @@
+Đây là file được tạo trực tiếp trên GitHub.
+Mục đích: kiểm tra khả năng đồng bộ remote.
+Sinh viên: Ngô Tỷ.
