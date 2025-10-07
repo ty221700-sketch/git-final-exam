@@ -1,3 +1,6 @@
 - Git giúp quản lý phiên bản dễ dàng
 - Hiểu rõ quá trình phát triển
 - Giúp làm việc nhóm hiệu quả
+- Dễ khôi phục file đã xóa
+- Giúp theo dõi thay đổi từng người
+
