@@ -13,8 +13,13 @@ Ngày kết thúc: 14/10/2025
 8. Xem lại kiến thức WinForms.  
 9. Thử tạo pull request trên GitHub.  
 10. Tổng kết và rút kinh nghiệm tuần.
+<<<<<<< Updated upstream
 11. Hoàn thiện phần báo cáo cuối tuần.
 12. Thực hành thêm các lệnh Git nâng cao.
 13. Chuẩn bị bài kiểm tra giữa kỳ.
 14. Đọc thêm tài liệu về Git branching.
 
+=======
+11. Ôn tập các khái niệm về commit và merge.
+12. Viết tài liệu mô tả quy trình nhóm.
+>>>>>>> Stashed changes
