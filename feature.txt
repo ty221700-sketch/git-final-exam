@@ -1,0 +1,7 @@
+## Mô tả tính năng mới
+
+1. Tính năng: Thêm chức năng thống kê học tập tự động.  
+2. Người thực hiện: Ngô Tỷ.  
+3. Mục tiêu: Giúp theo dõi tiến độ học từng ngày.  
+4. Công nghệ dự kiến: Java, MongoDB, Ruby.  
+5. Trạng thái: Đang phát triển.
